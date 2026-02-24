@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NotesFriend</title>
+
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+</head>
+<body>
+
+<!-- MENU BUTTON -->
+<div class="menu-btn">☰</div>
+
+<!-- OVERLAY -->
+<div class="overlay"></div>
+
+<!-- SIDEBAR -->
+<div class="sidebar">
+    <div class="sidebar-links">
+        <a href="index.html">🏠 Home</a>
+        <a href="team.html">👥 Team</a>
+    </div>
+    <div class="sidebar-footer">
+        <div class="feedback-card"><a href="https://forms.gle/noV9KmgREWTg3KG59">💬 Feedback</div></a>
+    </div>
+</div>
+
+<!-- HEADER -->
+<header class="main-header">
+    <h1>NotesFriend</h1>
+  <div class="social">
+    <a href="https://www.instagram.com/ohh.itz_kamran?igsh=MXd0bGkyMjc4MTc4dQ=="><i class="fab fa-instagram"></i></a>
+    <a href="https://chat.whatsapp.com/EtFh63YitRPCegTSUDGbTN"><i class="fab fa-whatsapp"></i></a>
+  </div>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-content">
+    <h2>Faculty Wise Smart Learning</h2>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Search Faculty, Subject...">
+      <i class="fas fa-search"></i>
+    </div>
+  </div>
+</section>
+<div class="nmu-marquee">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    🎓 All Study Materials Are Based on NMU And IMRD University Syllabus |📚 NotesFriend Supports NMU & IMRD StudentS | 🚀 Updated According to Latest NMU IMRD Pattern
+  </marquee>
+</div>
+
+<!-- FACULTIES -->
+<section class="faculties">
+  <h2>Select Faculty</h2>
+  <div class="faculty-grid">
+    <div class="faculty-card" onclick="openFaculty('BSc CS')">BSc.CS</div>
+    <div class="faculty-card" onclick="openFaculty('BCA')">BCA</div>
+    <div class="faculty-card" onclick="openFaculty('BCom')">B.Com</div>
+    <div class="faculty-card" onclick="openFaculty('BSc Chem')">BSc.Chem</div>
+    <div class="faculty-card" onclick="openFaculty('BSc Biotech')">BSc.Biotech</div>
+    <div class="faculty-card" onclick="openFaculty('B Pharma')">B.Pharma</div>
+  </div>
+</section>
+
+<!-- SEMESTER -->
+<section class="semester-section" id="semesterSection">
+  <h2 id="facultyTitle"></h2>
+  <div class="semester-grid">
+    <div class="sem-card">Semester 1</div>
+    <div class="sem-card">Semester 2</div>
+    <div class="sem-card">Semester 3</div>
+    <div class="sem-card">Semester 4</div>
+    <div class="sem-card">Semester 5</div>
+    <div class="sem-card">Semester 6</div>
+  </div>
+</section>
+
+<!-- SUBJECT SECTION (Dynamic) -->
+<section class="semester-section" id="subjectSection">
+  <h2 id="subjectTitle"></h2>
+  <div class="notes-container"></div>
+</section>
+
+<!-- VISION -->
+<section class="vision">
+  <h2>Our Vision</h2>
+  <p>
+    NotesFriend ek smart platform hai jaha Faculty → Semester → Subject wise
+    organized notes aur videos milte hain.
+  </p>
+</section>
+
+<footer>
+  <a href="about.html">About Us</a>
+  <p>Empowering Students with Smart Learning</p>
+  <p>@notesfriend | 2026</p>
+</footer>
+
+<script src="assets/js/script.js"></script>
+</body>
+</html>
