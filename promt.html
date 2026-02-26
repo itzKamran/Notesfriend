@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>NotesFriend - Smart Prompts</title>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="script.js"></script>
+</head>
+<body>
+
+<header class="main-header">
+  <div class="logo">NotesFriend</div>
+
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="prompts.html" class="active">Prompts</a>
+  </nav>
+
+  <div class="social-icons">
+    <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"></a>
+    <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733579.png"></a>
+    <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/733/733547.png"></a>
+  </div>
+</header>
+
+<div class="sidebar">
+  <h3>Open AI</h3>
+  <button onclick="openChatGPT()">ChatGPT</button>
+  <button onclick="openGemini()">Gemini</button>
+</div>
+
+<section class="container">
+
+  <!-- PROMPT 1 -->
+  <div class="prompt-box">
+    <h2>Life Goal Clarity Mentor</h2>
+    <p id="lifePrompt">
+Act as a professional career mentor and life coach. 
+Ask me 10 deep questions one by one to understand my interests, strengths, weaknesses, financial background, academic level, personality and future dreams. 
+After analysing, guide me step-by-step toward a clear career goal with practical action steps.
+    </p>
+
+    <div class="actions">
+      <button class="copy" onclick="copyPrompt('lifePrompt')">Copy</button>
+      <button class="open" onclick="openChatGPT()">Open</button>
+    </div>
+  </div>
+
+  <!-- PROMPT 2 -->
+  <div class="prompt-box">
+    <h2>Marks Based Exam Answer Generator</h2>
+    <p id="examPrompt">
+Act as an expert academic writer. 
+When I send a question with marks (2,5,10,15 etc), generate an answer according to marks weightage.
+
+5 marks → around 1.5 A4 page length  
+10 marks → around 3 pages  
+2 marks → short precise answer  
+
+Use simple human language, headings, intro, explanation, examples and conclusion.
+Answer should look natural and exam-friendly.
+    </p>
+
+    <div class="actions">
+      <button class="copy" onclick="copyPrompt('examPrompt')">Copy</button>
+      <button class="open" onclick="openChatGPT()">Open</button>
+    </div>
+  </div>
+
+  <!-- PROMPT 3 -->
+  <div class="prompt-box">
+    <h2>Rewrite Answer in 10 Different Styles</h2>
+    <p id="rewritePrompt">
+If I send a question OR upload my written answer (text or PDF),
+rewrite the same answer in 10 different ways.
+
+Rules:
+- Keep same length
+- Maintain marks-based structure
+- Change vocabulary and sentence flow
+- Improve clarity
+- Keep exam-friendly format
+Provide 10 clearly separated versions.
+    </p>
+
+    <div class="actions">
+      <button class="copy" onclick="copyPrompt('rewritePrompt')">Copy</button>
+      <button class="open" onclick="openChatGPT()">Open</button>
+    </div>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 NotesFriend | Smart Study Platform</p>
+</footer>
+
+</body>
+</html>
