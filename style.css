@@ -559,3 +559,90 @@ height:400px;
 border-radius:15px;
 
 }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f6f9;
+}
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+}
+
+nav a.active {
+  border-bottom: 2px solid #4CAF50;
+}
+
+.social-icons img {
+  width: 22px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.container {
+  width: 70%;
+  margin: 40px auto;
+}
+
+.prompt-box {
+  background: white;
+  padding: 25px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+}
+
+.prompt-box h2 {
+  margin-top: 0;
+}
+
+.actions {
+  margin-top: 15px;
+}
+
+.actions button {
+  padding: 8px 16px;
+  margin-right: 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.copy {
+  background: #4CAF50;
+  color: white;
+}
+
+.open {
+  background: #007bff;
+  color: white;
+}
+
+.sidebar {
+  position: fixed;
+  right: 20px;
+  top: 150px;
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.sidebar h3 {
+  margin-top: 0;
+}
+
+.sidebar button {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+  width: 120px;
+  cursor: pointer;
+}
+
