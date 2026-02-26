@@ -823,3 +823,13 @@ function showSearchResults(results,value){
   });
 
 }
+
+function copyPrompt(id){
+let text=document.getElementById(id).innerText;
+navigator.clipboard.writeText(text);
+alert("Prompt Copied ✅");
+
+  function openGemini(){
+window.open("https://gemini.google.com/","_blank");
+}
+}
