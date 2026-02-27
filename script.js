@@ -105,7 +105,7 @@ const facultyData = {
       name:"Cs-602 R-DBMS",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODQxMTQwMDk3MDg2?cjc=svz5o424",
       videos:["playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"]
     },
     {
@@ -833,3 +833,4 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
