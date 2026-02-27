@@ -25,7 +25,7 @@ const facultyData = {
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
-     {
+    {
       name:"El-111 Introduction to Electronics",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
@@ -215,7 +215,7 @@ const facultyData = {
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1CPY07muZueW00m8zvk-584VBy7eQLpQT?usp=drive_link",
       classroom:"#",
-      videos:["Tc1RVGZUXbU"]
+      videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
     },
   ],
 },
@@ -913,6 +913,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
