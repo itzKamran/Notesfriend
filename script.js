@@ -39,7 +39,7 @@ const facultyData = {
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
-  ];
+  ],
    2:[
     {
       name:"MT-121 Theory of Equations",
@@ -175,8 +175,7 @@ const facultyData = {
     },
   ],
 },
-
-
+  
 "BCA":{
   2:[
     {
@@ -870,5 +869,6 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
