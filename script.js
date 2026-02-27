@@ -39,7 +39,6 @@ const facultyData = {
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
-    {
   ],
   2:[
     {
@@ -914,6 +913,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
