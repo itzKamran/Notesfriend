@@ -172,7 +172,7 @@ const facultyData = {
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/NzgzMTAzMjg4MDEw",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
-    }
+    },
   ],
   6:[
     {
@@ -913,6 +913,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
