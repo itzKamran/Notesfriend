@@ -39,6 +39,7 @@ const facultyData = {
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
+  ];
    2:[
     {
       name:"MT-121 Theory of Equations",
@@ -127,7 +128,7 @@ const facultyData = {
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/NzgzMTAzMjg4MDEw",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
-    }
+    },
   ],
   6:[
     {
@@ -172,7 +173,7 @@ const facultyData = {
       classroom:"#",
       videos:["Tc1RVGZUXbU"]
     },
-  ]
+  ],
 },
 
 
@@ -869,4 +870,5 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
