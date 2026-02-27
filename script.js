@@ -173,7 +173,7 @@ const facultyData = {
       classroom:"#",
       videos:["Tc1RVGZUXbU"]
     },
-  ],
+  ]
 },
   
 "BCA":{
