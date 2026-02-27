@@ -19,16 +19,52 @@ const facultyData = {
 "BSc CS":{
   1:[
     {
-      name:"Programming Fundamentals",
+      name:"MT-111 Calculas",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
-    }
+    },
+    {
+      name:"ELE-111 Introduction to Electronics",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"CS-111 C Programming-I",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+   2:[
+    {
+      name:"MT-121 Theory of Equations",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"ELE-121 Electronics Semiconductor Devices",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"CS-121 C Programming-II",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
   ],
   4:[
     {
-      name:"CS-221 Data Structure-II",
+     name:"CS-221 Data Structure-II",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
