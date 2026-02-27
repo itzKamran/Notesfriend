@@ -17,22 +17,89 @@ overlay.onclick=()=>{
 const facultyData = {
 
 "BSc CS":{
-  2:[
+   1:[
     {
-      name:"Programming Fundamentals",
+      name:"MT-111 Calculas",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
      {
-      name:"Programming Fundamentals",
+      name:"El-111 Introduction to Electronics",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
-    
+    {
+      name:"CS-111 C Programming-I",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+  ],
+  2:[
+    {
+      name:"MT-121 Theory of Equations",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+     {
+      name:"El-121 Electronics Semiconductor Devices",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+     {
+      name:"PH-121 ",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"CS-121 C Programming-II",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },   
+  ],
+  3:[
+    {
+      name:"Cs-211 Data Structure-I",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+     {
+      name:"CS-212 Vedic Mathematics",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"EL-214 Digital Circuit And Application",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"El-215 Fundamentals of Arduino",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
   ],
   4:[
     {
@@ -50,7 +117,14 @@ const facultyData = {
       videos:["dQw4w9WgXcQ"]
     },
     {
-      name:"Eng-223 MIL",
+      name:"ElE-223 MIL",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"MtH-223",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
@@ -119,14 +193,14 @@ const facultyData = {
     {
       name:"Cs-603 Computer Network",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
-      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/ODM3ODE3NDc2OTYy",
+      pdf:"https://drive.google.com/drive/folders/1xt_s8ZnV5CRZGVRSMsSON-iyf204kz38?usp=drive_link",
+      classroom:"",
       videos:["playlist?list=PLqleLpAMfxGCUpDRFUnLKeDrgBsPOwTQK"]
     },
     {
       name:"Cs-604 Theoretical Computer Science",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
-      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      pdf:"https://drive.google.com/drive/folders/13_RkYTiOsuufvao-ggIyB29udQ5bXLPJ?usp=drive_link",
       classroom:"#",
       videos:[""]
     },
@@ -140,7 +214,7 @@ const facultyData = {
     {
       name:"Cs-606 Java Programming-II",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
-      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      pdf:"https://drive.google.com/drive/folders/1CPY07muZueW00m8zvk-584VBy7eQLpQT?usp=drive_link",
       classroom:"#",
       videos:["Tc1RVGZUXbU"]
     },
@@ -716,7 +790,8 @@ function openSubject(name){
 
     <div class="note-card">
       <h4>📄 Notes PDF </h4>
-      <p>${subject.pdf}</p>
+      <a href="${subject.pdf}" target="_blank">
+        <button>View Notes</button>
     </div>
 
 
@@ -839,6 +914,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
