@@ -207,7 +207,7 @@ const facultyData = {
       name:"Cs-605 Python Programming-II",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODM3ODE3NDc2OTYy",
       videos:["UrsmFxEIp5k","t2_Q2BRzeEE"]
     },
     {
@@ -913,6 +913,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
