@@ -135,7 +135,7 @@ const facultyData = {
       name:"Cs-501 System Programming",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/NzkyMDIzODMzNTAw?cjc=lbiih5l4",
       videos:["playlist?list=PLCSAAIuWuhN8NSoaQK-ChB9ed8udxp7dg","playlist?list=PLPIwNooIb9vh9l2_rk2OGAWYcA9b8X9Y5"]
     },
     {
@@ -149,7 +149,7 @@ const facultyData = {
       name:"Cs-503 Software Engineering",
       imp:"https://docs.google.com/document/d/1oKpmTRWwae4m6mE1yONbT2qVmmgPEAc1/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/NzkxMTg5MjUzNTQx",
+      classroom:"https://classroom.google.com/c/NzkxMTg5MjUzNTQx?cjc=ph5dwgil",
       videos:["playlist?list=PLqleLpAMfxGB1g0xlYj2H6lyY2Q2ku7p9"]
     },
     {
@@ -163,14 +163,14 @@ const facultyData = {
       name:"Cs-505 Python Programming-I",
       imp:"https://docs.google.com/document/d/1r7QgLStDMeA1FdjJ66QMoMSEu8n9jw2e/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/Nzg4OTk4NTk4NjE4",
+      classroom:"https://classroom.google.com/c/NzgzMTAzMjg4MDEw?cjc=46bannxv",
       videos:["UrsmFxEIp5k","t2_Q2BRzeEE"]
     },
     {
       name:"Cs-506(B) Java Programming-I",
       imp:"https://docs.google.com/document/d/1r7QgLStDMeA1FdjJ66QMoMSEu8n9jw2e/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/NzgzMTAzMjg4MDEw",
+      classroom:"https://classroom.google.com/c/NzgzMTAzMjg4MDEw?cjc=46bannxv",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
     },
   ],
@@ -179,7 +179,7 @@ const facultyData = {
       name:"Cs-601 Operating System",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/NzkzMDIxNjE0MDEw",
+      classroom:"https://classroom.google.com/c/NzkzMDIxNjE0MDEw?cjc=7peqhzez",
       videos:["playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB"]
     },
     {
@@ -207,7 +207,7 @@ const facultyData = {
       name:"Cs-605 Python Programming-II",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"https://classroom.google.com/c/ODM3ODE3NDc2OTYy",
+      classroom:"https://classroom.google.com/c/ODM3ODE3NDc2OTYy?cjc=fwkxgapv",
       videos:["UrsmFxEIp5k","t2_Q2BRzeEE"]
     },
     {
@@ -913,6 +913,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
