@@ -50,7 +50,7 @@ const facultyData = {
       name:"CS-115 IKS",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
       videos:["dQw4w9WgXcQ"]
     },
   ],
@@ -955,6 +955,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
