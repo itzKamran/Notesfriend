@@ -22,9 +22,24 @@ const facultyData = {
       name:"MT-111 Calculas",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
       videos:["dQw4w9WgXcQ"]
     },
+    {
+      name:"MT-112 Prac On Matrix Algebra",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
+      videos:["dQw4w9WgXcQ"]
+    },
+   {
+      name:"CS-111 C Programming-I",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"#",
+      videos:["irqbmMNs2Bo"]
+    },
+     
     {
       name:"El-111 Introduction to Electronics",
       imp:"Important Loops and Arrays Questions",
@@ -33,7 +48,7 @@ const facultyData = {
       videos:["dQw4w9WgXcQ"]
     },
     {
-      name:"CS-111 C Programming-I",
+      name:"CS-115 IKS",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
@@ -45,7 +60,14 @@ const facultyData = {
       name:"MT-121 Theory of Equations",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
+      videos:["dQw4w9WgXcQ"]
+    },
+     {
+      name:"MT-122 Prac on Co-Ordinate Geometry",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
       videos:["dQw4w9WgXcQ"]
     },
      {
@@ -67,8 +89,15 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:["irqbmMNs2Bo"]
     },   
+     {
+      name:"CI-125 Consititution of india",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
+      videos:["7sIL19Xa1U,"JqUiuviG9mk","b55f1qEhrFs","ITk6LWmwZnk","rxV2GEcxQfo"]
+    },
   ],
   3:[
     {
@@ -82,7 +111,14 @@ const facultyData = {
       name:"CS-212 Vedic Mathematics",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
+      classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
+      videos:["dQw4w9WgXcQ"]
+    },
+    {
+      name:"CS-214 Linear Programming Problem",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
       videos:["dQw4w9WgXcQ"]
     },
     {
@@ -108,8 +144,23 @@ const facultyData = {
       classroom:"#",
       videos:["dQw4w9WgXcQ"]
     },
+     {
+      name:"MT-223 Group Theory",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
+      videos:[" playlist?list=PLU6SqdYcYsfKaQARA0_vnhuXbxmuOQVFF"]
+    },https://youtube.com/playlist?list=PLmthGxpQ-7KLREsD35v0G7pyvb6qht8QC&si=V0HV6Z7HVzwdj7Z2
     {
-      name:"Cs226-Database Management System",
+      name:"MT-224 Theroy of Equation",
+      imp:"Important Loops and Arrays Questions",
+      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
+      videos:["playlist?list=PLmthGxpQ-7KLREsD35v0G7pyvb6qht8QC","playlist?list=PLU6SqdYcYsfLkBvdDM5J_Ss9a2-55lGVh"]
+    },
+   
+    {
+      name:"CS-226 Database Management System",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
@@ -117,13 +168,6 @@ const facultyData = {
     },
     {
       name:"ElE-223 MIL",
-      imp:"Important Loops and Arrays Questions",
-      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
-      classroom:"#",
-      videos:["dQw4w9WgXcQ"]
-    },
-    {
-      name:"MtH-223",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
@@ -913,6 +957,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
