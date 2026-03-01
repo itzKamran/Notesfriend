@@ -23,7 +23,7 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["dQw4w9WgXcQ"]
+      videos:["playlist?list=PLyZhC9kb9O7-ExmOjI8gpso837kKPNeLU"]
     },
     {
       name:"MT-112 Prac On Matrix Algebra",
@@ -955,6 +955,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
