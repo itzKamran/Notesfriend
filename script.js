@@ -95,7 +95,7 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["7sIL19Xa1U,"JqUiuviG9mk","b55f1qEhrFs","ITk6LWmwZnk"]
+      videos:["7sIL19Xa1U","JqUiuviG9mk","b55f1qEhrFs","ITk6LWmwZnk"]
     },
   ],
   3:[
@@ -955,6 +955,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
