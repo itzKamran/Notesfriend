@@ -1,3 +1,4 @@
+
 const menuBtn = document.querySelector(".menu-btn");
 const sidebar = document.querySelector(".sidebar");
 const overlay = document.querySelector(".overlay");
@@ -235,12 +236,14 @@ const facultyData = {
       name:"Cs-603 Computer Network",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1xt_s8ZnV5CRZGVRSMsSON-iyf204kz38?usp=drive_link",
-      classroom:"https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
+      classroom:"",
+      videos:["playlist?list=PLqleLpAMfxGCUpDRFUnLKeDrgBsPOwTQK"]
+    },
     {
       name:"Cs-604 Theoretical Computer Science",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/13_RkYTiOsuufvao-ggIyB29udQ5bXLPJ?usp=drive_link",
-      classroom:"https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
+      classroom:"#",
       videos:[""]
     },
     {
@@ -254,7 +257,7 @@ const facultyData = {
       name:"Cs-606 Java Programming-II",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1CPY07muZueW00m8zvk-584VBy7eQLpQT?usp=drive_link",
-      https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=trueclassroom:"#",
+      classroom:"#",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
     },
   ],
@@ -353,7 +356,15 @@ const facultyData = {
 
 },
 "BSc Chem":{
- 
+  6:[
+    {
+      name:"CH-606 Spectroscopy",
+      imp:"Pointer Important Questions",
+      pdf:"https://drive.google.com/drive/folders/1ByDz5H4Gijla6enqLkSlXqgok5ysvG1A?usp=drive_link",
+      classroom:"#",
+      videos:["9bZkp7q19f0"]
+    },
+  ], 
  3:[
     {
       name:"CH-211 Physical and Inorganic Chemistry-I",
@@ -384,7 +395,7 @@ const facultyData = {
       videos:["9bZkp7q19f0"]
     },
   ],
-  4:[
+4:[
     {
       name:"CH-221 Physical and Inorganic-II",
       imp:"Pointer Important Questions",
@@ -400,202 +411,8 @@ const facultyData = {
       videos:["9bZkp7q19f0"]
     },
   ],
- 6:[
-    {
-      name:"CH-606 Spectroscopy",
-      imp:"Pointer Important Questions",
-      pdf:"https://drive.google.com/drive/folders/1ByDz5H4Gijla6enqLkSlXqgok5ysvG1A?usp=drive_link",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
 },
-"B Pharma":{
-  2:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-  
-},
-"BSc Biotech":{
-  2:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-  
-},
+
 "B Pharma":{
   2:[
     {
@@ -1007,11 +824,6 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
-
-
-
-
-
 
 
 
