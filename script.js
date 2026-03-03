@@ -632,103 +632,7 @@ const facultyData = {
       videos:["9bZkp7q19f0"]
     },
   ],
-  
 },
-"BCom":{
-  2:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-  
-},
-
-
 
 };
 
@@ -955,6 +859,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
