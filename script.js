@@ -355,96 +355,60 @@ const facultyData = {
 
 },
 "BSc Chem":{
-  2:[
+  6:[
     {
-      name:"C Programming",
+      name:"CH-606 Spectroscopy",
+      imp:"Pointer Important Questions",
+      pdf:"https://drive.google.com/drive/folders/1ByDz5H4Gijla6enqLkSlXqgok5ysvG1A?usp=drive_link",
+      classroom:"#",
+      videos:["9bZkp7q19f0"]
+    },
+    
+ 3:[
+    {
+      name:"CH-211 Physical and Inorganic Chemistry-I",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
     {
-      name:"C Programming",
+      name:"CH-212 Ancient Indian Chemistry-I",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
     {
-      name:"C Programming",
+      name:"CH-214 Physical and Inorganic Chemistry",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
     {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
+      name:"CH-218 Organic and Analytical Chemistry-I",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
   ],
-6:[
+4:[
     {
-      name:"C Programming",
+      name:"CH-221 Physical and Inorganic-II",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
     {
-      name:"C Programming",
+      name:"CH-226 Organic and Analytical Chemistry-II ",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/1k8rj0_6gF2RutlOk4TItagmkOSFjzjlH?usp=drive_link",
       classroom:"#",
       videos:["9bZkp7q19f0"]
     },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
   
 },
 
@@ -859,6 +823,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
