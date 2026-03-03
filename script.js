@@ -235,7 +235,7 @@ const facultyData = {
       name:"Cs-603 Computer Network",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1xt_s8ZnV5CRZGVRSMsSON-iyf204kz38?usp=drive_link",
-      classroom:"https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true":[
+      classroom:"https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
     {
       name:"Cs-604 Theoretical Computer Science",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
@@ -256,7 +256,7 @@ const facultyData = {
       pdf:"https://drive.google.com/drive/folders/1CPY07muZueW00m8zvk-584VBy7eQLpQT?usp=drive_link",
       https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=trueclassroom:"#",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
-    }.
+    },
   ],
 },
 "BCA":{
@@ -1007,6 +1007,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
