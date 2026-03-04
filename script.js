@@ -227,7 +227,7 @@ const facultyData = {
     },
     {
       name:"Cs-602 R-DBMS",
-      imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
+      imp:"https://docs.google.com/document/d/1X6KRqBdvqReecd-YfZNR6hr9bkvmB58t/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODQxMTQwMDk3MDg2?cjc=svz5o424",
       videos:["playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"]
@@ -255,7 +255,7 @@ const facultyData = {
     },
     {
       name:"Cs-606 Java Programming-II",
-      imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
+      imp:"https://docs.google.com/document/d/1xF6uA6zGdMcTEqgHMghzBpfTXdyLRFHN/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1CPY07muZueW00m8zvk-584VBy7eQLpQT?usp=drive_link",
       classroom:"#",
       videos:["playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop","xTtL8E4LzTQ"]
@@ -686,6 +686,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
