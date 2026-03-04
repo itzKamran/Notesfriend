@@ -31,7 +31,7 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"CS-111 C Programming-I",
@@ -45,14 +45,14 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"CS-115 IKS",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
   ],
   2:[
@@ -61,28 +61,28 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"MT-122 Prac on Co-Ordinate Geometry",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODAzNTI4NzI2NDc0?cjc=dfwy3lt3",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"El-121 Electronics Semiconductor Devices",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"PH-121 ",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"CS-121 C Programming-II",
@@ -105,35 +105,35 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"CS-212 Vedic Mathematics",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"CS-214 Linear Programming Problem",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODA0NTMwODIyNDU2?cjc=q7w5ehhe",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"EL-214 Digital Circuit And Application",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"El-215 Fundamentals of Arduino",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
   ],
   4:[
@@ -142,7 +142,7 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"MT-223 Group Theory",
@@ -163,14 +163,14 @@ const facultyData = {
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
     {
       name:"ElE-223 MIL",
       imp:"Important Loops and Arrays Questions",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"#",
-      videos:["dQw4w9WgXcQ"]
+      videos:[""]
     },
   ],
   5:[
@@ -234,7 +234,7 @@ const facultyData = {
     },
     {
       name:"Cs-603 Computer Network",
-      imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
+      imp:"https://docs.google.com/document/d/1zp9tR83A_Q5qr2MnMkXbvMETMLnrFvBy/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/1xt_s8ZnV5CRZGVRSMsSON-iyf204kz38?usp=drive_link",
       classroom:"",
       videos:["playlist?list=PLqleLpAMfxGCUpDRFUnLKeDrgBsPOwTQK"]
@@ -263,97 +263,52 @@ const facultyData = {
   ],
 },
 "BCA":{
-  2:[
+  1:[
     {
-      name:"C Programming",
+      name:"CA-112 Programming using C++",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/file/d/1kSLrJF27T2NkRO1Op0eUY98k3kULP5G9/view?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:["playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj"]
     },
     {
-      name:"C Programming",
+      name:"CA-114 Office Management Tools",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/1KQfviXgB-teuiCMtvh21d_TvTcXKw6Ht?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
- 4:[
+ 2:[
     {
-      name:"C Programming",
+      name:"CA-121 Object Oriented Programming in C++",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/1KPWTuSj0gRC2_KkjzJIT-WMXeFmzC9-6?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:["playlist?list=PLxCzCOWd7aiF6yRNI5OHQsnUJQfl7Geqj"]
     },
     {
-      name:"C Programming",
+      name:"CA-122 Introduction to Operating System",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/1D1sdvyGsR_7h50DhGZES_D7VLCjWSCkL?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:["playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB"]
     },
     {
-      name:"C Programming",
+      name:"CA-125 Web Design-II",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/1BTtzj1DpPB-Szm6e5EBNIOw4V656mBvn?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
-    {
-      name:"C Programming",
+   {
+      name:"CA-126 Introduction to Computer Graphics",
       imp:"Pointer Important Questions",
-      pdf:"#",
+      pdf:"https://drive.google.com/drive/folders/13GT9MM4CUxeqSd3phFb8io_ZpkJOt3Gy?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
-
 },
 "BSc Chem":{
   6:[
@@ -362,7 +317,7 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"https://drive.google.com/drive/folders/1ByDz5H4Gijla6enqLkSlXqgok5ysvG1A?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ], 
  3:[
@@ -371,28 +326,28 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"CH-212 Ancient Indian Chemistry-I",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"CH-214 Physical and Inorganic Chemistry",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"CH-218 Organic and Analytical Chemistry-I",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
 4:[
@@ -401,111 +356,18 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"CH-226 Organic and Analytical Chemistry-II ",
       imp:"Pointer Important Questions",
       pdf:"https://drive.google.com/drive/folders/1k8rj0_6gF2RutlOk4TItagmkOSFjzjlH?usp=drive_link",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
 },
-
-"B Pharma":{
-  2:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:["9bZkp7q19f0"]
-    },
-  ],
   
-},
 "BSc Biotech":{
   2:[
     {
@@ -513,28 +375,28 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
  4:[
@@ -543,28 +405,28 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
 6:[
@@ -573,28 +435,28 @@ const facultyData = {
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
     {
       name:"C Programming",
       imp:"Pointer Important Questions",
       pdf:"#",
       classroom:"#",
-      videos:["9bZkp7q19f0"]
+      videos:[""]
     },
   ],
 },
@@ -824,6 +686,7 @@ alert("Prompt Copied ✅");
 window.open("https://gemini.google.com/","_blank");
 }
 }
+
 
 
 
