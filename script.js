@@ -243,6 +243,7 @@ const facultyData = {
       name:"Cs-604 Theoretical Computer Science",
       imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
       pdf:"https://drive.google.com/drive/folders/13_RkYTiOsuufvao-ggIyB29udQ5bXLPJ?usp=drive_link",
+      pdf:"https://drive.google.com/drive/folders/1a1UPA_sSAaTzDN-d4UZf48s1rd8a2Mnw",
       classroom:"#",
       videos:[""]
     },
