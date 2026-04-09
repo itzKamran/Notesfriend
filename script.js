@@ -223,7 +223,7 @@ const facultyData = {
       imp:"https://drive.google.com/drive/folders/1aYk5t2GbaV_bBsEpDiS1Xkc9Y4F_xBC6?usp=sharing",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/NzkzMDIxNjE0MDEw?cjc=7peqhzez",
-      videos:["playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB","playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p&si=vlJtGTlZC851MbQp"]
+      videos:["playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB","playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"]
     },
     {
       name:"Cs-602 R-DBMS",
