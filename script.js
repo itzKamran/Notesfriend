@@ -220,7 +220,7 @@ const facultyData = {
   6:[
     {
       name:"Cs-601 Operating System",
-      imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
+      imp:"https://drive.google.com/drive/folders/1aYk5t2GbaV_bBsEpDiS1Xkc9Y4F_xBC6?usp=sharing",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/NzkzMDIxNjE0MDEw?cjc=7peqhzez",
       videos:["playlist?list=PL23dd-8zssJDbCZI4Rle3vuQokIAdiDdB"]
@@ -368,98 +368,6 @@ const facultyData = {
   ],
 },
   
-"BSc Biotech":{
-  2:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-  ],
- 4:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-  ],
-6:[
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-    {
-      name:"C Programming",
-      imp:"Pointer Important Questions",
-      pdf:"#",
-      classroom:"#",
-      videos:[""]
-    },
-  ],
-},
 
 };
 
