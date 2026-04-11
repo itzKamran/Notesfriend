@@ -230,7 +230,7 @@ const facultyData = {
       imp:"https://docs.google.com/document/d/1X6KRqBdvqReecd-YfZNR6hr9bkvmB58t/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODQxMTQwMDk3MDg2?cjc=svz5o424",
-      videos:["playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p"]
+      videos:["WSn7DPctJZCJ3b9Q"]
     },
     {
       name:"Cs-603 Computer Network",
