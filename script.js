@@ -228,7 +228,7 @@ const facultyData = {
     {
       name:"Cs-602 R-DBMS",
       imp:"https://docs.google.com/document/d/1X6KRqBdvqReecd-YfZNR6hr9bkvmB58t/edit?usp=drive_link&ouid=102998916905628950928&rtpof=true&sd=true",
-      pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
+      pdf:"https://drive.google.com/file/d/1Hs98hxvNKLXS8a_ceMXnjY5UWRUpo4YM/view?usp=drive_link",
       classroom:"https://classroom.google.com/c/ODQxMTQwMDk3MDg2?cjc=svz5o424",
       videos:["cnzka7kF5Zk"]
     },
