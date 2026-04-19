@@ -248,7 +248,7 @@ const facultyData = {
     },
     {
       name:"Cs-605 Python Programming-II",
-      imp:"https://docs.google.com/document/d/1HkHJutAF6u_hIj4-pe-TjPXSu3kDORZV/edit?usp=drive_link&ouid=115459576305560944580&rtpof=true&sd=true",
+      imp:"https://drive.google.com/drive/folders/1VYeG4ZigqYjOB1aQIVvwYOY85zsDZv5a?usp=drive_link",
       pdf:"Sorry,Notesfriend Can't add Notes Join Us Teacher Classroom",
       classroom:"https://classroom.google.com/c/ODM3ODE3NDc2OTYy?cjc=fwkxgapv",
       videos:["UrsmFxEIp5k","t2_Q2BRzeEE"]
